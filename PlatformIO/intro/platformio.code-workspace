@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../platformio"
+		},
+		{
+			"name": "lab4",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
